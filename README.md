@@ -27,6 +27,9 @@ Projet de fin de formation : améliorer un livrable existant grâce à l'IA, de 
 * **Librairies :** Pandas, Pandera, Great Expectations
 * **Méthode :** veille technologique, cahier des charges, comparaison argumentée d'outils, IA générative
 
+### Reproduire l'analyse
+Les données brutes sont dans `data-raw/`. Pour exécuter les notebooks, placez ces fichiers dans le même dossier que le notebook.
+
 ### Limites
 L'IA générative n'est pas reproductible d'une exécution à l'autre : elle sert à explorer, pas à surveiller en continu.
 
